@@ -2,7 +2,7 @@
 
 ---
 
-A Caregiver Management Application where admins create users (caregiver/patien) and assigns caregivers to patiens
+A Caregiver Management Application where admins create users (caregiver/patient) and assigns caregivers to patients
 
 ## Features
 
